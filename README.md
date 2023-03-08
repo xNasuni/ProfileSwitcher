@@ -6,7 +6,7 @@
 
 >
 # Download
-> **[`Latest Version @ c939abc61ac53c29de00e1c1002164a28154cbc2f31fb2938d7725a8229eec99`](https://github.com/xNasuni/ProfileSwitcher/releases/tag/1.0.0)**
+> **[`Latest Version` `f69a0aea7229c3c541f0502c19941c76b3481fcee36fc39ef68ca577be21118c`](https://github.com/xNasuni/ProfileSwitcher/releases/tag/1.0.0)**
 ## Extra Information
 
 > **ProfileSwitcher** only changes changes one registry key and only reads your Opera GX profile data.
