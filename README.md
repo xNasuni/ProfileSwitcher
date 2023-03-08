@@ -9,7 +9,7 @@
 > **[`Latest Version @ c939abc61ac53c29de00e1c1002164a28154cbc2f31fb2938d7725a8229eec99`](https://github.com/xNasuni/ProfileSwitcher/releases/tag/1.0.0)**
 ## Extra Information
 
-> **ProfileSwitcher** only changes changes one key and only reads your Opera GX profile data.
+> **ProfileSwitcher** only changes changes one registry key and only reads your Opera GX profile data.
 > The registry key and the directories it reads is mentioned below.
 > ```
 > Files    %LocalAppData%\Programs\Opera GX
