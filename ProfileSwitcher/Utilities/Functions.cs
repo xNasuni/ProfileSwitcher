@@ -111,8 +111,7 @@ namespace ProfileSwitcher.Utilities
                     Match ProfileIDMatch = ProfileIDRegex.Match(DefaultData);
 
                     if (!ProfileIDMatch.Success) {
-                        MessageBox.Show("Program couldn't find the ProfileID key and resorted to finding it with regex, and that failed, so please report it in github issues to https://github.com/xNasuni/ProfileSwitcher", DefaultData, MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        Application.Exit();
+                        return "Main";
                     }
 
                     string ProfileID = ProfileIDMatch.Value.Split('=')[1];
