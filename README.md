@@ -1,4 +1,5 @@
-# ProfileSwitcher
+# ProfileSwitcher *[obsolete]*
+## From recent news I heard from a friend, this behavior has been implemented into the native settings of Opera GX. Please use that instead of this workaround. ⚠
 
 <img src="/assets/splash.png" width="250px"/>
 
